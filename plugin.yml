@@ -1,0 +1,4 @@
+name: PlayerRouter
+main: net.natroutter.playerrouter.PlayerRouter
+version: 1.0.0
+author: NATroutter
